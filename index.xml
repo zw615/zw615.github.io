@@ -13,6 +13,33 @@
     </image>
     
     <item>
+      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
+      <link>https://zeyuwang615.github.io/publication/dmae/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zeyuwang615.github.io/publication/dmae/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Inverse Scaling Law for CLIP Training</title>
+      <link>https://zeyuwang615.github.io/publication/clipa/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zeyuwang615.github.io/publication/clipa/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can CNNs Be More Robust Than Transformers?</title>
+      <link>https://zeyuwang615.github.io/publication/robustcnn/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zeyuwang615.github.io/publication/robustcnn/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Knowledge-based commonsense reasoning and explainability</title>
       <link>https://zeyuwang615.github.io/talk/us2ts-2022/</link>
       <pubDate>Fri, 30 Sep 2022 10:30:00 +0000</pubDate>
@@ -34,6 +61,15 @@
       <pubDate>Wed, 07 Sep 2022 01:00:00 +0000</pubDate>
       <guid>https://zeyuwang615.github.io/talk/ucl-2022/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Bag of tricks for FGSM adversarial training</title>
+      <link>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</guid>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
     <item>
@@ -93,38 +129,11 @@
     </item>
     
     <item>
-      <title>Bag of tricks for FGSM adversarial training</title>
-      <link>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
-      <link>https://zeyuwang615.github.io/publication/dmae/</link>
-      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/dmae/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Anomaly Detection Through Explanations</title>
       <link>https://zeyuwang615.github.io/talk/defense/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://zeyuwang615.github.io/talk/defense/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Can CNNs Be More Robust Than Transformers?</title>
-      <link>https://zeyuwang615.github.io/publication/robustcnn/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/robustcnn/</guid>
-      <description>&lt;hr&gt;
-</description>
     </item>
     
     <item>
