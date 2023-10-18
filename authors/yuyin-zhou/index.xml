@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuyin Zhou | Zeyu Wang</title>
-    <link>https://zeyuwang615.github.io/authors/yuyin-zhou/</link>
-      <atom:link href="https://zeyuwang615.github.io/authors/yuyin-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zw615.github.io/authors/yuyin-zhou/</link>
+      <atom:link href="https://zw615.github.io/authors/yuyin-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuyin Zhou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zeyuwang615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
       <title>Yuyin Zhou</title>
-      <link>https://zeyuwang615.github.io/authors/yuyin-zhou/</link>
+      <link>https://zw615.github.io/authors/yuyin-zhou/</link>
     </image>
     
     <item>
       <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
-      <link>https://zeyuwang615.github.io/publication/dmae/</link>
+      <link>https://zw615.github.io/publication/dmae/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/dmae/</guid>
+      <guid>https://zw615.github.io/publication/dmae/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Can CNNs Be More Robust Than Transformers?</title>
-      <link>https://zeyuwang615.github.io/publication/robustcnn/</link>
+      <link>https://zw615.github.io/publication/robustcnn/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/robustcnn/</guid>
+      <guid>https://zw615.github.io/publication/robustcnn/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Bag of tricks for FGSM adversarial training</title>
-      <link>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</link>
+      <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</guid>
+      <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

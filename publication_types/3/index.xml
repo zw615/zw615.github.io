@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Zeyu Wang</title>
-    <link>https://zeyuwang615.github.io/publication_types/3/</link>
-      <atom:link href="https://zeyuwang615.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zw615.github.io/publication_types/3/</link>
+      <atom:link href="https://zw615.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zeyuwang615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>https://zeyuwang615.github.io/publication_types/3/</link>
+      <link>https://zw615.github.io/publication_types/3/</link>
     </image>
     
     <item>
       <title>An Inverse Scaling Law for CLIP Training</title>
-      <link>https://zeyuwang615.github.io/publication/clipa/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/clipa/</guid>
+      <link>https://zw615.github.io/publication/clipa/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/clipa/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation</title>
+      <link>https://zw615.github.io/publication/distillbev/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/distillbev/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Bag of tricks for FGSM adversarial training</title>
-      <link>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</link>
+      <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</guid>
+      <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

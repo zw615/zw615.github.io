@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Zeyu Wang</title>
-    <link>https://zeyuwang615.github.io/authors/</link>
-      <atom:link href="https://zeyuwang615.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zw615.github.io/authors/</link>
+      <atom:link href="https://zw615.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zeyuwang615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://zeyuwang615.github.io/authors/</link>
+      <link>https://zw615.github.io/authors/</link>
     </image>
     
   </channel>

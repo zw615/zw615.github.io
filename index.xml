@@ -2,161 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zeyu Wang</title>
-    <link>https://zeyuwang615.github.io/</link>
-      <atom:link href="https://zeyuwang615.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zw615.github.io/</link>
+      <atom:link href="https://zw615.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Zeyu Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://zeyuwang615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
       <title>Zeyu Wang</title>
-      <link>https://zeyuwang615.github.io/</link>
+      <link>https://zw615.github.io/</link>
     </image>
     
     <item>
-      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
-      <link>https://zeyuwang615.github.io/publication/dmae/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/dmae/</guid>
+      <title>An Inverse Scaling Law for CLIP Training</title>
+      <link>https://zw615.github.io/publication/clipa/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/clipa/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>An Inverse Scaling Law for CLIP Training</title>
-      <link>https://zeyuwang615.github.io/publication/clipa/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/clipa/</guid>
+      <title>DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation</title>
+      <link>https://zw615.github.io/publication/distillbev/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/distillbev/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
+      <link>https://zw615.github.io/publication/dmae/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/dmae/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Can CNNs Be More Robust Than Transformers?</title>
-      <link>https://zeyuwang615.github.io/publication/robustcnn/</link>
+      <link>https://zw615.github.io/publication/robustcnn/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/robustcnn/</guid>
+      <guid>https://zw615.github.io/publication/robustcnn/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Knowledge-based commonsense reasoning and explainability</title>
-      <link>https://zeyuwang615.github.io/talk/us2ts-2022/</link>
+      <link>https://zw615.github.io/talk/us2ts-2022/</link>
       <pubDate>Fri, 30 Sep 2022 10:30:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/us2ts-2022/</guid>
+      <guid>https://zw615.github.io/talk/us2ts-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accountability Layers</title>
-      <link>https://zeyuwang615.github.io/talk/birmingham-2022/</link>
+      <link>https://zw615.github.io/talk/birmingham-2022/</link>
       <pubDate>Thu, 08 Sep 2022 11:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/birmingham-2022/</guid>
+      <guid>https://zw615.github.io/talk/birmingham-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accountability Layers</title>
-      <link>https://zeyuwang615.github.io/talk/ucl-2022/</link>
+      <link>https://zw615.github.io/talk/ucl-2022/</link>
       <pubDate>Wed, 07 Sep 2022 01:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/ucl-2022/</guid>
+      <guid>https://zw615.github.io/talk/ucl-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bag of tricks for FGSM adversarial training</title>
-      <link>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</link>
+      <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/bag-of-tricks-at/</guid>
+      <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Explaining Errors in Complex Systems</title>
-      <link>https://zeyuwang615.github.io/talk/cse-200-2021/</link>
+      <link>https://zw615.github.io/talk/cse-200-2021/</link>
       <pubDate>Thu, 18 Nov 2021 09:50:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/cse-200-2021/</guid>
+      <guid>https://zw615.github.io/talk/cse-200-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Errors in Autonomous Driving: A Diagnosis Tool and Testing Framework for Robust Decision Making</title>
-      <link>https://zeyuwang615.github.io/talk/jhu-case-2021/</link>
+      <link>https://zw615.github.io/talk/jhu-case-2021/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/jhu-case-2021/</guid>
+      <guid>https://zw615.github.io/talk/jhu-case-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception Challenge for Autonomous Vehicles</title>
-      <link>https://zeyuwang615.github.io/talk/cogsat-2021/</link>
+      <link>https://zw615.github.io/talk/cogsat-2021/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/cogsat-2021/</guid>
+      <guid>https://zw615.github.io/talk/cogsat-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I&#39;m Recruiting PhD Students</title>
-      <link>https://zeyuwang615.github.io/talk/recruiting/</link>
+      <link>https://zw615.github.io/talk/recruiting/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/recruiting/</guid>
+      <guid>https://zw615.github.io/talk/recruiting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection Through Explanations</title>
-      <link>https://zeyuwang615.github.io/talk/fuzz-ieee-2021/</link>
+      <link>https://zw615.github.io/talk/fuzz-ieee-2021/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/fuzz-ieee-2021/</guid>
+      <guid>https://zw615.github.io/talk/fuzz-ieee-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations in AI</title>
-      <link>https://zeyuwang615.github.io/talk/nw-xai-2021/</link>
+      <link>https://zw615.github.io/talk/nw-xai-2021/</link>
       <pubDate>Wed, 12 May 2021 09:50:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/nw-xai-2021/</guid>
+      <guid>https://zw615.github.io/talk/nw-xai-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying Multimodal Errors Through Explanations</title>
-      <link>https://zeyuwang615.github.io/talk/neurips-phd/</link>
+      <link>https://zw615.github.io/talk/neurips-phd/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/neurips-phd/</guid>
+      <guid>https://zw615.github.io/talk/neurips-phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Detection Through Explanations</title>
-      <link>https://zeyuwang615.github.io/talk/defense/</link>
+      <link>https://zw615.github.io/talk/defense/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/defense/</guid>
+      <guid>https://zw615.github.io/talk/defense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining Explanations</title>
-      <link>https://zeyuwang615.github.io/talk/cs520-xai/</link>
+      <link>https://zw615.github.io/talk/cs520-xai/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/cs520-xai/</guid>
+      <guid>https://zw615.github.io/talk/cs520-xai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explanation-based Anomaly Detection</title>
-      <link>https://zeyuwang615.github.io/talk/wids-2020/</link>
+      <link>https://zw615.github.io/talk/wids-2020/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/wids-2020/</guid>
+      <guid>https://zw615.github.io/talk/wids-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I&#39;m Recruiting PhD students</title>
-      <link>https://zeyuwang615.github.io/post/recruiting/</link>
+      <link>https://zw615.github.io/post/recruiting/</link>
       <pubDate>Wed, 04 Mar 2020 13:40:25 +0100</pubDate>
-      <guid>https://zeyuwang615.github.io/post/recruiting/</guid>
+      <guid>https://zw615.github.io/post/recruiting/</guid>
       <description>&lt;p&gt;I am seeking creative, hard-working, PhD students (and master&amp;rsquo;s students
 and undergraduates) to join the XAI group at UCSC.&lt;/p&gt;
 &lt;p&gt;Come work with me on making complex mechanisms more understandable for
@@ -207,74 +216,74 @@ diversity broadly defined), to consider joining us at UC Santa Cruz!&lt;/p&gt;
     
     <item>
       <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
-      <link>https://zeyuwang615.github.io/publication/siamfc&#43;&#43;/</link>
+      <link>https://zw615.github.io/publication/siamfc&#43;&#43;/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/publication/siamfc&#43;&#43;/</guid>
+      <guid>https://zw615.github.io/publication/siamfc&#43;&#43;/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>CSAIL Student Profile</title>
-      <link>https://zeyuwang615.github.io/talk/csail-student-profile/</link>
+      <link>https://zw615.github.io/talk/csail-student-profile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/csail-student-profile/</guid>
+      <guid>https://zw615.github.io/talk/csail-student-profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Explanations for Robust Autonomous Decision Making</title>
-      <link>https://zeyuwang615.github.io/talk/ucsd-datascience-2019/</link>
+      <link>https://zw615.github.io/talk/ucsd-datascience-2019/</link>
       <pubDate>Wed, 23 Oct 2019 13:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/ucsd-datascience-2019/</guid>
+      <guid>https://zw615.github.io/talk/ucsd-datascience-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI and ethics</title>
-      <link>https://zeyuwang615.github.io/project/ai-ethics/</link>
+      <link>https://zw615.github.io/project/ai-ethics/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>https://zeyuwang615.github.io/project/ai-ethics/</guid>
+      <guid>https://zw615.github.io/project/ai-ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explanatory Games</title>
-      <link>https://zeyuwang615.github.io/project/explanatory-games/</link>
+      <link>https://zw615.github.io/project/explanatory-games/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>https://zeyuwang615.github.io/project/explanatory-games/</guid>
+      <guid>https://zw615.github.io/project/explanatory-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring Decision Systems</title>
-      <link>https://zeyuwang615.github.io/project/reasonableness-monitors/</link>
+      <link>https://zw615.github.io/project/reasonableness-monitors/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>https://zeyuwang615.github.io/project/reasonableness-monitors/</guid>
+      <guid>https://zw615.github.io/project/reasonableness-monitors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Car Can Explain!</title>
-      <link>https://zeyuwang615.github.io/project/car-can-explain/</link>
+      <link>https://zw615.github.io/project/car-can-explain/</link>
       <pubDate>Sun, 31 Mar 2019 10:50:48 -0400</pubDate>
-      <guid>https://zeyuwang615.github.io/project/car-can-explain/</guid>
+      <guid>https://zw615.github.io/project/car-can-explain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automotive FOSS Panel</title>
-      <link>https://zeyuwang615.github.io/talk/sflc-panel/</link>
+      <link>https://zw615.github.io/talk/sflc-panel/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/sflc-panel/</guid>
+      <guid>https://zw615.github.io/talk/sflc-panel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Explanation and Self-Driving</title>
-      <link>https://zeyuwang615.github.io/talk/sflc-2018/</link>
+      <link>https://zw615.github.io/talk/sflc-2018/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://zeyuwang615.github.io/talk/sflc-2018/</guid>
+      <guid>https://zw615.github.io/talk/sflc-2018/</guid>
       <description></description>
     </item>
     
