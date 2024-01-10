@@ -13,10 +13,28 @@
     </image>
     
     <item>
+      <title>Revisiting Adversarial Training at Scale</title>
+      <link>https://zw615.github.io/publication/advxl/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/advxl/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Inverse Scaling Law for CLIP Training</title>
       <link>https://zw615.github.io/publication/clipa/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/publication/clipa/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rejuvenating image-GPT as Strong Visual Representation Learners</title>
+      <link>https://zw615.github.io/publication/digpt/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/digpt/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
