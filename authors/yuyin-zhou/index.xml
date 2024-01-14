@@ -5,7 +5,7 @@
     <link>https://zw615.github.io/authors/yuyin-zhou/</link>
       <atom:link href="https://zw615.github.io/authors/yuyin-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuyin Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
       <title>Yuyin Zhou</title>
@@ -13,9 +13,18 @@
     </image>
     
     <item>
+      <title>Bag of tricks for FGSM adversarial training</title>
+      <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
       <link>https://zw615.github.io/publication/dmae/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/publication/dmae/</guid>
       <description>&lt;hr&gt;
 </description>
@@ -24,17 +33,8 @@
     <item>
       <title>Can CNNs Be More Robust Than Transformers?</title>
       <link>https://zw615.github.io/publication/robustcnn/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/publication/robustcnn/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bag of tricks for FGSM adversarial training</title>
-      <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
-      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

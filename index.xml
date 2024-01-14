@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>An Inverse Scaling Law for CLIP Training</title>
-      <link>https://zw615.github.io/publication/clipa/</link>
-      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://zw615.github.io/publication/clipa/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Rejuvenating image-GPT as Strong Visual Representation Learners</title>
       <link>https://zw615.github.io/publication/digpt/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
@@ -42,26 +33,26 @@
     <item>
       <title>DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation</title>
       <link>https://zw615.github.io/publication/distillbev/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/publication/distillbev/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
-      <link>https://zw615.github.io/publication/dmae/</link>
-      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://zw615.github.io/publication/dmae/</guid>
+      <title>An Inverse Scaling Law for CLIP Training</title>
+      <link>https://zw615.github.io/publication/clipa/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/clipa/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Can CNNs Be More Robust Than Transformers?</title>
-      <link>https://zw615.github.io/publication/robustcnn/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://zw615.github.io/publication/robustcnn/</guid>
+      <title>On the Adversarial Robustness of Camera-based 3D Object Detection</title>
+      <link>https://zw615.github.io/publication/bevrobustness/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/bevrobustness/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
@@ -95,6 +86,24 @@
       <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masked Autoencoders Enable Efficient Knowledge Distillers</title>
+      <link>https://zw615.github.io/publication/dmae/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/dmae/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can CNNs Be More Robust Than Transformers?</title>
+      <link>https://zw615.github.io/publication/robustcnn/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/robustcnn/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
@@ -233,20 +242,20 @@ diversity broadly defined), to consider joining us at UC Santa Cruz!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
-      <link>https://zw615.github.io/publication/siamfc&#43;&#43;/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://zw615.github.io/publication/siamfc&#43;&#43;/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CSAIL Student Profile</title>
       <link>https://zw615.github.io/talk/csail-student-profile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/talk/csail-student-profile/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Siamfc&#43;&#43;: Towards robust and accurate visual tracking with target estimation guidelines</title>
+      <link>https://zw615.github.io/publication/siamfc&#43;&#43;/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/siamfc&#43;&#43;/</guid>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
     <item>

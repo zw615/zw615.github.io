@@ -43,16 +43,6 @@
   </url>
   
   <url>
-    <loc>https://zw615.github.io/publication_types/1/</loc>
-    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zw615.github.io/publication/clipa/</loc>
-    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zw615.github.io/authors/alan-yuille/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url>
@@ -70,6 +60,11 @@
   <url>
     <loc>https://zw615.github.io/authors/sucheng-ren/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zw615.github.io/publication_types/1/</loc>
+    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
   </url>
   
   <url>
@@ -93,32 +88,27 @@
   </url>
   
   <url>
-    <loc>https://zw615.github.io/authors/chen-wei/</loc>
+    <loc>https://zw615.github.io/publication/clipa/</loc>
     <lastmod>2023-10-19T06:50:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zw615.github.io/authors/huiyu-wang/</loc>
-    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+    <loc>https://zw615.github.io/publication_types/2/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zw615.github.io/publication/dmae/</loc>
-    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+    <loc>https://zw615.github.io/publication/bevrobustness/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zw615.github.io/authors/yutong-bai/</loc>
-    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+    <loc>https://zw615.github.io/authors/shaoyuan-xie/</loc>
+    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zw615.github.io/authors/yuyin-zhou/</loc>
-    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zw615.github.io/publication/robustcnn/</loc>
+    <loc>https://zw615.github.io/authors/zichao-li/</loc>
     <lastmod>2023-10-19T06:50:05+08:00</lastmod>
   </url>
   
@@ -173,7 +163,32 @@
   </url>
   
   <url>
-    <loc>https://zw615.github.io/authors/zichao-li/</loc>
+    <loc>https://zw615.github.io/authors/yuyin-zhou/</loc>
+    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zw615.github.io/authors/chen-wei/</loc>
+    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zw615.github.io/authors/huiyu-wang/</loc>
+    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zw615.github.io/publication/dmae/</loc>
+    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zw615.github.io/authors/yutong-bai/</loc>
+    <lastmod>2023-10-19T06:50:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zw615.github.io/publication/robustcnn/</loc>
     <lastmod>2023-10-19T06:50:05+08:00</lastmod>
   </url>
   
@@ -243,6 +258,11 @@
   </url>
   
   <url>
+    <loc>https://zw615.github.io/talk/csail-student-profile/</loc>
+    <lastmod>2022-11-23T16:06:20+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zw615.github.io/authors/gang-yu/</loc>
     <lastmod>2023-10-19T06:50:05+08:00</lastmod>
   </url>
@@ -265,11 +285,6 @@
   <url>
     <loc>https://zw615.github.io/authors/zuoxin-li/</loc>
     <lastmod>2023-10-19T06:50:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zw615.github.io/talk/csail-student-profile/</loc>
-    <lastmod>2022-11-23T16:06:20+08:00</lastmod>
   </url>
   
   <url>
