@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>Sculpting Holistic 3D Representation in Contrastive Language-Image-3D Pre-training</title>
+      <link>https://zw615.github.io/publication/mixcon3d/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/mixcon3d/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning</title>
+      <link>https://zw615.github.io/publication/fedconv/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/fedconv/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation</title>
       <link>https://zw615.github.io/publication/distillbev/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
@@ -53,15 +71,6 @@
       <link>https://zw615.github.io/publication/bevrobustness/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://zw615.github.io/publication/bevrobustness/</guid>
-      <description>&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bag of tricks for FGSM adversarial training</title>
-      <link>https://zw615.github.io/publication/bag-of-tricks-at/</link>
-      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zw615.github.io/publication/bag-of-tricks-at/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
