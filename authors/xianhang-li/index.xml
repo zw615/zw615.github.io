@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianhang Li* | Zeyu Wang</title>
+    <link>https://zw615.github.io/authors/xianhang-li/</link>
+      <atom:link href="https://zw615.github.io/authors/xianhang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianhang Li*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zw615.github.io/images/icon_hu47e97d5e8666104847c7243b60de4ed2_370712_512x512_fill_lanczos_center_2.png</url>
+      <title>Xianhang Li*</title>
+      <link>https://zw615.github.io/authors/xianhang-li/</link>
+    </image>
+    
+    <item>
+      <title>What If We Recaption Billions of Web Images with LLaMA-3?</title>
+      <link>https://zw615.github.io/publication/recapdatacomp/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/recapdatacomp/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revisiting Adversarial Training at Scale</title>
+      <link>https://zw615.github.io/publication/advxl/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/advxl/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Inverse Scaling Law for CLIP Training</title>
+      <link>https://zw615.github.io/publication/clipa/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zw615.github.io/publication/clipa/</guid>
+      <description>&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
